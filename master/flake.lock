@@ -40,42 +40,15 @@
         "nixpkgs": [
           "nixpkgs"
         ],
-        "ranges-master": "ranges-master"
-      },
-      "locked": {
-        "lastModified": 1648108028,
-        "narHash": "sha256-VazqJg/UOvToVHKyO+PUqM/MHuuBIYbsWDrFvwa4y+I=",
-        "owner": "nim-nix-pkgs",
-        "repo": "ranges",
-        "rev": "c199826571e7338a7fcb0a6b285f66ad4f7cb946",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "ranges",
-        "type": "github"
-      }
-    },
-    "ranges-master": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "ranges",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "ranges",
-          "nixpkgs"
-        ],
         "src-ranges-master": "src-ranges-master"
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1648108028,
-        "narHash": "sha256-VazqJg/UOvToVHKyO+PUqM/MHuuBIYbsWDrFvwa4y+I=",
+        "lastModified": 1648163523,
+        "narHash": "sha256-x6H35lM0TpEpPEpdyVwpV017GousC58hM6oZlg0FuG0=",
         "owner": "nim-nix-pkgs",
         "repo": "ranges",
-        "rev": "c199826571e7338a7fcb0a6b285f66ad4f7cb946",
+        "rev": "78bdf2c334df5f62d9edbdde6f5550bb729322d0",
         "type": "github"
       },
       "original": {
