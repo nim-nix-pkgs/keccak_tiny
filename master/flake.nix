@@ -11,7 +11,6 @@
   inputs.src-keccak_tiny-master.ref   = "refs/heads/master";
   inputs.src-keccak_tiny-master.owner = "status-im";
   inputs.src-keccak_tiny-master.repo  = "nim-keccak-tiny";
-  inputs.src-keccak_tiny-master.dir   = "";
   inputs.src-keccak_tiny-master.type  = "github";
   
   inputs."ranges".owner = "nim-nix-pkgs";
