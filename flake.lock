@@ -34,11 +34,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652798687,
-        "narHash": "sha256-727N+qMDIit8klz3gW+qlafNlyZHRyH+pc6cIpkCLXY=",
+        "lastModified": 1653699555,
+        "narHash": "sha256-QcI+crZFEfjpMWoWA5zo5Y4vyMMez2TT9Vvhi2GL+2E=",
         "owner": "nim-nix-pkgs",
         "repo": "keccak_tiny",
-        "rev": "73bf1eddcb86be1d06e798d5bb60eed35b5d91a5",
+        "rev": "c06b75cd0c29e07825c83dea6ab68b08c50504f6",
         "type": "github"
       },
       "original": {
